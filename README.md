@@ -50,6 +50,7 @@ https://github.com/openatx/uiautomator2
 * KMS https://github.com/netnr/kms
 * TegraRcmGUI https://github.com/eliboa/TegraRcmGUI
 * IDA插件整理 https://github.com/onethawt/idaplugins-list
+* M3U8下载 https://github.com/HeiSir2014/M3U8-Downloader
 
 ### 速查手册
 * Markdown手册 https://github.com/guodongxiaren/README
